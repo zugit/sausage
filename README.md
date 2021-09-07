@@ -1,4 +1,4 @@
-![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/zugit/f0242563f130dbe8617c05a193c34441/raw/99e780b6ebead9446399d1f54479e05f8c64ebd9/gistfile1.json)
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/zugit/f0242563f130dbe8617c05a193c34441/raw/gistfile1.json)
 
 Project: Sausage
 =======
